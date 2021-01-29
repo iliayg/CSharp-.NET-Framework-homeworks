@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ilia_yg_homework\web2(5)\bin\Debug\web2(5).exe.config
+C:\Users\User\source\repos\ilia_yg_homework\web2(5)\bin\Debug\web2(5).exe
+C:\Users\User\source\repos\ilia_yg_homework\web2(5)\bin\Debug\web2(5).pdb
+C:\Users\User\source\repos\ilia_yg_homework\web2(5)\obj\Debug\web2(5).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ilia_yg_homework\web2(5)\obj\Debug\web2(5).exe
+C:\Users\User\source\repos\ilia_yg_homework\web2(5)\obj\Debug\web2(5).pdb
