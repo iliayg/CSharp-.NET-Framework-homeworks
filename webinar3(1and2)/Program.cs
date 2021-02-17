@@ -65,7 +65,6 @@ namespace Webinar3ex1
                 default:
                     Console.WriteLine("Error");
                     break;
-
             }
             #endregion
 
