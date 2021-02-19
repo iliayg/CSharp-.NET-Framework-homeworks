@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\ilia_yg_homework\exercise3\bin\Debug\exercise3.exe.config
-C:\Users\User\source\repos\ilia_yg_homework\exercise3\bin\Debug\exercise3.exe
-C:\Users\User\source\repos\ilia_yg_homework\exercise3\bin\Debug\exercise3.pdb
-C:\Users\User\source\repos\ilia_yg_homework\exercise3\obj\Debug\web1(3).csprojAssemblyReference.cache
-C:\Users\User\source\repos\ilia_yg_homework\exercise3\obj\Debug\web1(3).csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\ilia_yg_homework\exercise3\obj\Debug\exercise3.exe
-C:\Users\User\source\repos\ilia_yg_homework\exercise3\obj\Debug\exercise3.pdb
