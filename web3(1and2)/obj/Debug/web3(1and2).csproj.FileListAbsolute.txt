@@ -1,6 +1,0 @@
-C:\Users\User\source\repos\ilia_yg_homework\webinar3(1and2)\bin\Debug\webinar3(1and2).exe.config
-C:\Users\User\source\repos\ilia_yg_homework\webinar3(1and2)\bin\Debug\webinar3(1and2).exe
-C:\Users\User\source\repos\ilia_yg_homework\webinar3(1and2)\bin\Debug\webinar3(1and2).pdb
-C:\Users\User\source\repos\ilia_yg_homework\webinar3(1and2)\obj\Debug\web3(1and2).csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\ilia_yg_homework\webinar3(1and2)\obj\Debug\webinar3(1and2).exe
-C:\Users\User\source\repos\ilia_yg_homework\webinar3(1and2)\obj\Debug\webinar3(1and2).pdb
