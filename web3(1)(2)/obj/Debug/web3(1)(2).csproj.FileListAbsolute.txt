@@ -5,3 +5,9 @@ C:\Users\User\source\repos\web3(1)(2)\obj\Debug\web3(1)(2).csprojAssemblyReferen
 C:\Users\User\source\repos\web3(1)(2)\obj\Debug\web3(1)(2).csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\web3(1)(2)\obj\Debug\web3(1)(2).exe
 C:\Users\User\source\repos\web3(1)(2)\obj\Debug\web3(1)(2).pdb
+C:\Users\User\source\repos\ilia_yg_homework\web3(1)(2)\bin\Debug\web3(1)(2).exe.config
+C:\Users\User\source\repos\ilia_yg_homework\web3(1)(2)\bin\Debug\web3(1)(2).exe
+C:\Users\User\source\repos\ilia_yg_homework\web3(1)(2)\bin\Debug\web3(1)(2).pdb
+C:\Users\User\source\repos\ilia_yg_homework\web3(1)(2)\obj\Debug\web3(1)(2).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ilia_yg_homework\web3(1)(2)\obj\Debug\web3(1)(2).exe
+C:\Users\User\source\repos\ilia_yg_homework\web3(1)(2)\obj\Debug\web3(1)(2).pdb
