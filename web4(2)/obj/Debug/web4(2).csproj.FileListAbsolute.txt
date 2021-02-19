@@ -4,5 +4,4 @@ C:\Users\User\source\repos\ilia_yg_homework\web4(2)\bin\Debug\web4(2).pdb
 C:\Users\User\source\repos\ilia_yg_homework\web4(2)\obj\Debug\web4(2).csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\ilia_yg_homework\web4(2)\obj\Debug\web4(2).exe
 C:\Users\User\source\repos\ilia_yg_homework\web4(2)\obj\Debug\web4(2).pdb
-C:\Users\User\source\repos\ilia_yg_homework\web4(2)\obj\Debug\web4(2).csprojAssemblyReference.cache
 C:\Users\User\source\repos\ilia_yg_homework\web4(2)\bin\Debug\TextFile1.txt
