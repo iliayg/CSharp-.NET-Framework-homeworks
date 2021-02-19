@@ -1,7 +1,6 @@
 C:\Users\User\source\repos\ilia_yg_homework\web4(5)\bin\Debug\web4(5).exe.config
 C:\Users\User\source\repos\ilia_yg_homework\web4(5)\bin\Debug\web4(5).exe
 C:\Users\User\source\repos\ilia_yg_homework\web4(5)\bin\Debug\web4(5).pdb
-C:\Users\User\source\repos\ilia_yg_homework\web4(5)\obj\Debug\web4(5).csprojAssemblyReference.cache
 C:\Users\User\source\repos\ilia_yg_homework\web4(5)\obj\Debug\web4(5).csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\ilia_yg_homework\web4(5)\obj\Debug\web4(5).exe
 C:\Users\User\source\repos\ilia_yg_homework\web4(5)\obj\Debug\web4(5).pdb

@@ -15,5 +15,4 @@ C:\Users\User\source\repos\ilia_yg_homework\web7(2)\obj\Debug\net5.0-windows\web
 C:\Users\User\source\repos\ilia_yg_homework\web7(2)\obj\Debug\net5.0-windows\ref\web7(2).dll
 C:\Users\User\source\repos\ilia_yg_homework\web7(2)\obj\Debug\net5.0-windows\web7(2).pdb
 C:\Users\User\source\repos\ilia_yg_homework\web7(2)\obj\Debug\net5.0-windows\web7(2).genruntimeconfig.cache
-C:\Users\User\source\repos\ilia_yg_homework\web7(2)\obj\Debug\net5.0-windows\web7(2).csprojAssemblyReference.cache
 C:\Users\User\source\repos\ilia_yg_homework\web7(2)\obj\Debug\net5.0-windows\web7_2_.Form2.resources

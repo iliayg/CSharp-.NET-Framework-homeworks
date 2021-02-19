@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Windows.Forms;
-using System.Collections.Generic;
 
 namespace web7_1_
 {
@@ -82,80 +81,6 @@ namespace web7_1_
 		{
 			count = ur.Redo(count);
 			lblNumber.Text = count.ToString();
-		}
-		#endregion
-
-
-		#region Класс для обмена данными и интерфейс для связи с Generic коллекцией Stack.
-		public class AddIntCommand : ICommand<int>
-		{
-			public AddIntCommand (int value) => Value = value;
-			public AddIntCommand () { }
-			public int Value { get; set; }
-			public int Do (int input) => input + Value;
-			public int Undo (int input) => input - Value;
-		}
-		public interface ICommand<T>
-		{
-			T Do (T input);
-			T Undo (T input);
-		}
-		#endregion
-
-
-		#region Класс на основе коллекции Stack.
-		public class UndoRedoStack<T>
-		{
-			Stack<ICommand<T>> _undo;
-			Stack<ICommand<T>> _redo;
-			public UndoRedoStack ()
-			{
-				_undo = new Stack<ICommand<T>>();
-				_redo = new Stack<ICommand<T>>();
-			}
-
-			public void Reset ()    //Метод, обнуляющий содержимое UndoRedoStack.
-			{
-				_undo = new Stack<ICommand<T>>();
-				_redo = new Stack<ICommand<T>>();
-			}
-
-			#region Реализация "погружения и добычи" данных в памяти программы.
-
-			public T Do (ICommand<T> cmd, T input)
-			{
-				T output = cmd.Do(input);
-				_undo.Push(cmd);
-				_redo.Clear();
-				return output;
-			}
-
-			public T Undo (T input)
-			{
-				if (_undo.Count > 0)
-				{
-					ICommand<T> cmd = _undo.Pop();
-					T output = cmd.Undo(input);
-					_redo.Push(cmd);
-					return output;
-				}
-				else
-					return input;
-			}
-
-			public T Redo (T input)
-			{
-				if (_redo.Count > 0)
-				{
-					ICommand<T> cmd = _redo.Pop();
-					T output = cmd.Do(input);
-					_undo.Push(cmd);
-					return output;
-				}
-				else
-					return input;
-			}
-			#endregion
 		}
 		#endregion
 	}
