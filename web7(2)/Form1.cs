@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace web7_2_
@@ -48,11 +47,8 @@ namespace web7_2_
 		private void toolStripMenuItem1_Click (object sender, EventArgs e)
 		{
 			Form2 newMDIChild = new Form2();
-			// Set the parent form of the child window.  
 			newMDIChild.MdiParent = this;
-			// Display the new form.  
 			newMDIChild.Show();
-			this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
 		}
 	}
 }
