@@ -1,10 +1,11 @@
+//1. а) Создать приложение, показанное на уроке, добавив в него защиту от возможных ошибок 
+//(не создана база данных, обращение к несуществующему вопросу, открытие слишком большого файла и т.д.).
+//=================================================================================
+
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace web8_1_
+namespace TrueFalse
 {
 	static class Program
 	{

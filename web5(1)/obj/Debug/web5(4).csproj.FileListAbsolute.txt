@@ -5,3 +5,4 @@ C:\Users\User\source\repos\ilia_yg_homework\web5(1)\bin\Debug\web5(1).pdb
 C:\Users\User\source\repos\ilia_yg_homework\web5(1)\obj\Debug\web5(4).csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\ilia_yg_homework\web5(1)\obj\Debug\web5(1).exe
 C:\Users\User\source\repos\ilia_yg_homework\web5(1)\obj\Debug\web5(1).pdb
+C:\Users\User\source\repos\ilia_yg_homework\web5(1)\obj\Debug\web5(4).csprojAssemblyReference.cache

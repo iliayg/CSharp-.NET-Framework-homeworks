@@ -5,7 +5,8 @@ C:\Users\User\source\repos\ilia_yg_homework\web8(1)\bin\Debug\net5.0-windows\web
 C:\Users\User\source\repos\ilia_yg_homework\web8(1)\bin\Debug\net5.0-windows\web8(1).dll
 C:\Users\User\source\repos\ilia_yg_homework\web8(1)\bin\Debug\net5.0-windows\ref\web8(1).dll
 C:\Users\User\source\repos\ilia_yg_homework\web8(1)\bin\Debug\net5.0-windows\web8(1).pdb
-C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\web8_1_.Form1.resources
+C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\web8(1).csprojAssemblyReference.cache
+C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\TrueFalse.Form1.resources
 C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\web8(1).csproj.GenerateResource.cache
 C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\web8(1).GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\web8(1).AssemblyInfoInputs.cache
@@ -15,4 +16,3 @@ C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\web
 C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\ref\web8(1).dll
 C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\web8(1).pdb
 C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\web8(1).genruntimeconfig.cache
-C:\Users\User\source\repos\ilia_yg_homework\web8(1)\obj\Debug\net5.0-windows\web8(1).csprojAssemblyReference.cache

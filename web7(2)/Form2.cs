@@ -42,11 +42,5 @@ namespace web7_2_
 	"Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
 			label2.Text = "0";
 		}
-
-		private void textBox1_TextChanged (object sender, EventArgs e)
-		{
-
-		}
 	}
-
 }
