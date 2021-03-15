@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\web2(7)\bin\Debug\web2(7).exe.config
+C:\Users\User\source\repos\web2(7)\bin\Debug\web2(7).exe
+C:\Users\User\source\repos\web2(7)\bin\Debug\web2(7).pdb
+C:\Users\User\source\repos\web2(7)\obj\Debug\web2(7).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\web2(7)\obj\Debug\web2(7).exe
+C:\Users\User\source\repos\web2(7)\obj\Debug\web2(7).pdb
+C:\Users\User\source\repos\ilia_yg_homework\web2(7)\bin\Debug\web2(7).exe.config
+C:\Users\User\source\repos\ilia_yg_homework\web2(7)\bin\Debug\web2(7).exe
+C:\Users\User\source\repos\ilia_yg_homework\web2(7)\bin\Debug\web2(7).pdb
+C:\Users\User\source\repos\ilia_yg_homework\web2(7)\obj\Debug\web2(7).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ilia_yg_homework\web2(7)\obj\Debug\web2(7).exe
+C:\Users\User\source\repos\ilia_yg_homework\web2(7)\obj\Debug\web2(7).pdb
